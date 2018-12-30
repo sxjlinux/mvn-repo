@@ -9,8 +9,8 @@
         \<updatePolicy\>always\</updatePolicy\>  
      \</snapshots\>  
   \</repository\> 
-  
 \</repositories\>  
+
 \<dependencies\>  
     \<dependency\>  
       \<groupId\>com.wincom.publicmodel\</groupId\>  
