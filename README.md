@@ -1,5 +1,5 @@
 # mvn-repo
-
+只需要在pom.xml加入以下信息即可使用maven来自动下载依赖jar
 \<repositories\>  
   \<repository\>  
     \<id\>mvn-repo\</id\>  
