@@ -1,6 +1,6 @@
 # mvn-repo
 ‘
-<repositories>
+\<repositories\>
         <repository>
             <id>mvn-repo</id>
             <url>https://raw.github.com/sxjlinux/mvn-repo/master</url>
