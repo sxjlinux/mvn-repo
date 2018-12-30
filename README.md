@@ -8,7 +8,7 @@
       \<enabled>true\</enabled\>  
         \<updatePolicy\>always\</updatePolicy\>  
      \</snapshots\>  
-  \</repository\> 
+  \</repository\>  
 \</repositories\>  
   
 \<dependencies\>  
